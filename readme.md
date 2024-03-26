@@ -28,7 +28,6 @@ I'm a Computer Vision Engineer @ Disys
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg"  title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 <!--
